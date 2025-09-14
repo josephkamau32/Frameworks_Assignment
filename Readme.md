@@ -1,5 +1,4 @@
 # CORD-19 Data Analysis
-Local URL: http://localhost:8501
 ## Overview
 This project analyzes a sample of the CORD-19 dataset, which contains metadata about COVID-19 research papers.
 
@@ -8,7 +7,7 @@ The original dataset is too large for GitHub, so a 5% sample was created using r
 
 ## Key Findings
 1. Most COVID-19 papers were published in 2020-2021
-2. Top journals: [list top journals from your analysis]
+2. Top journals: PloS One
 3. Common title keywords: COVID, pandemic, clinical, study, etc.
 
 ## How to Run
